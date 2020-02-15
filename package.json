@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "React website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/san475/web.git"
+  },
+  "author": "Francisco Esteve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/san475/web/issues"
+  },
+  "homepage": "https://github.com/san475/web#readme"
+}
