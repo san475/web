@@ -1,8 +1,12 @@
 import NavBar from '../components/NavBar'
 
 const blog = () =>
-    <div className='wrapper'>
+    <>
         <NavBar />
-        <h1>blog</h1>
-    </div>
+        <div style={{paddingTop: '200px'}}>
+            <header>
+                <h1>blog</h1>
+            </header>
+        </div>
+    </>
 export default blog

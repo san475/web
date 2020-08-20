@@ -1,9 +1,13 @@
 import NavBar from '../components/NavBar'
 const resume = () => 
-<div>
+<>
     <NavBar/>
+    <div style={{paddingTop: '200px'}}>
+	<header>
     <h1>resume</h1>
-</div>
+            </header>
+        </div>
+</>
 
 
 
