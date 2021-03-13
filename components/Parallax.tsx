@@ -29,7 +29,7 @@ const Parallax = () => {
 		</section>
 		<section
 			className='parallax-s2'
-			style={{ ...sectionStyle, background: 'linear-gradient(rgb(125,125,125,.7), rgb(0,0,0,0))',  top: `${0}px` }}
+			style={{ ...sectionStyle, background: 'linear-gradient(rgb(105,105,105,.7), rgb(0,0,0,0))',  top: `${0}px` }}
 		>
 		</section>
 	</header>
